@@ -1,0 +1,13 @@
+c:\users\lucu\source\repos\TDSDBSetup\TDSDBSetup\bin\Debug\TDSDBSetup.exe.config
+c:\users\lucu\source\repos\TDSDBSetup\TDSDBSetup\bin\Debug\TDSDBSetup.exe
+c:\users\lucu\source\repos\TDSDBSetup\TDSDBSetup\bin\Debug\TDSDBSetup.pdb
+c:\users\lucu\source\repos\TDSDBSetup\TDSDBSetup\obj\Debug\TDSDBSetup.csprojAssemblyReference.cache
+c:\users\lucu\source\repos\TDSDBSetup\TDSDBSetup\obj\Debug\TDSDBSetup.TDSDBSetup.resources
+c:\users\lucu\source\repos\TDSDBSetup\TDSDBSetup\obj\Debug\TDSDBSetup.Properties.Resources.resources
+c:\users\lucu\source\repos\TDSDBSetup\TDSDBSetup\obj\Debug\TDSDBSetup.csproj.GenerateResource.cache
+c:\users\lucu\source\repos\TDSDBSetup\TDSDBSetup\obj\Debug\TDSDBSetup.csproj.CoreCompileInputs.cache
+c:\users\lucu\source\repos\TDSDBSetup\TDSDBSetup\obj\Debug\TDSDBSetup.exe
+c:\users\lucu\source\repos\TDSDBSetup\TDSDBSetup\obj\Debug\TDSDBSetup.pdb
+c:\users\lucu\source\repos\TDSDBSetup\TDSDBSetup\bin\Debug\System.Management.Automation.dll
+c:\users\lucu\source\repos\TDSDBSetup\TDSDBSetup\bin\Debug\Microsoft.Management.Infrastructure.dll
+c:\users\lucu\source\repos\TDSDBSetup\TDSDBSetup\obj\Debug\TDSDBSetup.csproj.CopyComplete
